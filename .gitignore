@@ -1,3 +1,7 @@
 dft
-Win
 unpacked
+out
+tools
+
+*.~h
+*.~p
